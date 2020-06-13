@@ -14,11 +14,15 @@ em{
 }
 
 .box{
-    width: 20%;
-    margin-top: 20px;
+    width: 20%; 
     height: 140px;
-    margin-bottom: 20px;
-    background-color:rgb(25, 118, 175);
-    float: left;
+    background-color:dodgerblue;
+    margin: 0 auto;
+}
+.container{
+    position: absolute;
+    width: 100%;
+    top:50px; 
+    
 }
 
