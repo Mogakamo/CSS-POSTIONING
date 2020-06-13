@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #1f1f1f;
+    color: #bfbfbf;
+    height: 2000px;
+}
+h1{
+    font-weight: normal;
+    color: #fff;
+}
+em{
+    color: gold;
+}
+.box1{
+    width: 15%;
+    height: 140px;
+    margin-bottom: 10px;
+    background-color:rgb(25, 118, 175);
+    position: inherit;
+    top: 100px;
+    position: inherit;
+    z-index: 5;
+ 
+}
+.box2{
+    width: 15%;
+    height: 140px;
+    background-color: rgb(104, 160, 104);
+    position: relative;
+    top: -140px;
+    z-index: 4;
+   
+}
+.container{
+    background-color: rgba(0,0,0,.4);
+    height: 200px;
+    width: 400px;
+    position: relative;
+}
