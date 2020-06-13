@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #1f1f1f;
+    color: #bfbfbf;
+    /* height: 2000px; */
+}
+h1{
+    font-weight: normal;
+    color: #fff;
+}
+em{
+    color: gold;
+}
+
+.box1{
+    width: 20%;
+    margin-top: 20px;
+    height: 140px;
+    margin-bottom: 20px;
+    background-color:rgb(25, 118, 175);
+    position:relative;
+    /* top:100px; */
+    bottom: 1px;
+}
+.box2{
+    width: 20%; 
+    height: 140px;
+    background-color: rgb(104, 160, 104);
+   
+}
+.container{
+    background-color: rgba(0,0,0,.4);
+    height: 200px;
+    width: 400px;
+    /* top: 100px; */
+    position: relative;
+}
