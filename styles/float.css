@@ -18,7 +18,7 @@ em{
     margin-bottom: 10px;
     background-color:rgb(25, 118, 175);
     position: inherit;
-    top: 100px;
+    top: 100px; 
     position: inherit;
     z-index: 5;  
     float: right;  /* removes an element from the document flow and pushes
